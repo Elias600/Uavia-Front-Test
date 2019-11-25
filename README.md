@@ -1,6 +1,7 @@
 # UaviaFrontTest
 
-This project is simple angular test composed of 3 independent exercises.
+This project is an angular and RxJS test composed of 4 independent exercises.
+Launch the app and navigate to `http://localhost:4200/` to start.
 
 ## Development server
 
