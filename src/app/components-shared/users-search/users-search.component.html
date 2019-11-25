@@ -1,0 +1,16 @@
+
+<!--Search input-->
+<div>
+  <label for="search">Search :&nbsp;</label>
+  <input id="search" type="text">
+</div>
+
+<ul class="list-group">
+
+  <li class="list-group-item" *ngFor="let user of this.users">
+    {{user.name}}
+  </li>
+
+</ul>
+
+
